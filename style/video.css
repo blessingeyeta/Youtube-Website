@@ -1,0 +1,67 @@
+.thumbnail{
+    width: 100%;
+    
+}
+
+.search-bar{
+       border-radius: 4px;
+       display: block;
+}
+
+
+.html-title{
+    display: inline-block;
+    width: 200px;
+}
+
+.html-views{ 
+    display: inline-block;
+    margin: auto;
+    width: 200px;
+}
+
+.video-preview{
+width: 300px;
+display:inline-block;
+vertical-align: middle;
+margin-right: 5px;
+margin-bottom: 15px;
+padding-top: 90px;
+padding-left: 80px;
+}
+
+.thumbnail-row{
+    margin-bottom: 2px;
+    position: relative;
+    
+}
+
+.chanel-pic{
+display: inline-block;
+width: auto;
+}
+
+.video-info{
+    display: inline-block;
+    width: 200px;
+}
+.vide0-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.video-time{
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    right: 5px;
+}
